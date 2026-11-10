@@ -1,0 +1,22 @@
+instancia,algoritmo,custo,nos_expandidos,tempo_mediano_ms
+Facil,BFS,12,76,0.0655
+Facil,A* h0,12,76,0.1281
+Facil,A* h1,12,38,0.1047
+Facil,A* h2,12,37,0.0851
+Facil,A* h3,12,21,0.0557
+Facil,Gulosa h3,12,13,0.0337
+Facil,A*D,12,20,0.0915
+Media,BFS,50,2231,2.0638
+Media,A* h0,50,2231,4.4529
+Media,A* h1,50,839,2.8397
+Media,A* h2,50,648,1.717
+Media,A* h3,50,328,0.9294
+Media,Gulosa h3,67,99,0.2619
+Media,A*D,50,235,1.1893
+Dificil,BFS,92,10445,11.0932
+Dificil,A* h0,92,10445,23.2637
+Dificil,A* h1,92,5688,20.6831
+Dificil,A* h2,92,3283,9.9092
+Dificil,A* h3,92,1792,5.481
+Dificil,Gulosa h3,123,228,0.6696
+Dificil,A*D,92,1370,8.6279
